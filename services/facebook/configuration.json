@@ -1,0 +1,8 @@
+{
+    "name": "facebook",
+    "baseURL": "https://www.facebook.com",
+    "baseMobileURL": "https://m.facebook.com",
+    "loginURL": "/login.php",
+    "landingURL": "/",
+    "members_request_limit": 100
+}

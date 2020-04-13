@@ -1,0 +1,4 @@
+{
+    "cookieStorageDriver": "FileSystem",
+    "loggerLevel": "DEBUG"
+}
